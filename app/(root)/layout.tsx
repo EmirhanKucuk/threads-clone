@@ -6,6 +6,8 @@ import LeftSidebar from "@/components/shared/LeftSidebar";
 import RightSidebar from "@/components/shared/RightSiderbar";
 import Bottombar from "@/components/shared/Bottombar";
 import { Metadata } from "next";
+
+
 export const metadata: Metadata = {
   title: "Threads",
   description: "A Next.js 13 Meta Threads Application",
